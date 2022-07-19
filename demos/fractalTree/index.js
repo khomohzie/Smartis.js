@@ -1,4 +1,4 @@
-const c = new Candy();
+const c = new Smartis();
 c.createCanvas(WINDOW_WIDTH, WINDOW_HEIGHT-90);
 
 

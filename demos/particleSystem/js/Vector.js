@@ -1,6 +1,6 @@
 /**
  * Vector.js v1.0.0
- * @author Anurag Hazra
+ * @author Daniel Komolafe
  * @borrows p5.Vector
  * @param {number} x 
  * @param {number} y 

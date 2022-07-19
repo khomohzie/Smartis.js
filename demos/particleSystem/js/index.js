@@ -1,7 +1,7 @@
-let c = new Candy();
+let c = new Smartis();
 c.createCanvas(WINDOW_WIDTH, WINDOW_HEIGHT);
 
-let img = c.loadImage('https://anuraghazra.github.io/Candy.js/demos/particleSystem/texture/emitter1.png')
+let img = c.loadImage('https://khomohzie.github.io/Smartis/demos/particleSystem/texture/emitter1.png')
 
 function preload() {
   animate();

@@ -1,4 +1,4 @@
-let c = new Candy();
+let c = new Smartis();
 c.createCanvas(1280, 720);
 c.resize();
 
