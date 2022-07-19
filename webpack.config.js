@@ -4,9 +4,9 @@ module.exports = {
   entry: './src/app.js',
   devtool: 'source-map',
   output: {
-    filename: 'Candy.build.js',
+    filename: 'Smartis.build.js',
     path: path.resolve(__dirname, 'dist'),
-    library : 'Candy',
+    library : 'Smartis',
     libraryTarget: 'umd',
     globalObject: 'this',
   },
