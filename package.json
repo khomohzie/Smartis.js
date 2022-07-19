@@ -1,0 +1,25 @@
+{
+  "name": "smartisjs",
+  "version": "0.3.0",
+  "description": "JavaScript Canvas Rendering Engine Smartis.js",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch" : "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khomohzie/Smartis.js.git"
+  },
+  "author": "Daniel Komolafe <komozy2000@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/khomohzie/Smartis.js#readme",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
