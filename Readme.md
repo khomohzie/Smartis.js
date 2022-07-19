@@ -6,7 +6,7 @@ JavaScript Canvas Rendering Engine Smartis.js
 
 > Inspired by Candy.js
 
-Check out cool demos [here](https://khomohzie.github.io/Smartis/)
+Check out cool demos [here](https://khomohzie.github.io/Smartis.js/)
 
 ## Getting Started
 
